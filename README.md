@@ -2,7 +2,7 @@
 
 <h2>🖥️ Cybersecurity Projects:</h2>
 
-- <b>SIEM Stack & Automation</b>
+- <b>SIEM & Automation</b>
   - [SOC Automation Write-Up (Splunk & n8n)](https://github.com/azr-cs/SOC-Automation-Project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
